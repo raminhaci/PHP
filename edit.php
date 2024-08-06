@@ -1,2 +1,2 @@
 <?php
-echo "BU EDIT SEHIFESIDIR!";
+echo "salam";
