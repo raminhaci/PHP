@@ -1,2 +1,2 @@
 <?php
-echo "salam dunyam";
+echo "salam ramin";
